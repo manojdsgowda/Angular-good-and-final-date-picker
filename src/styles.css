@@ -1,0 +1,10 @@
+/* Add application styles & imports to this file! */
+body .bs-datepicker-container .bs-datepicker-head * {
+  color: white;
+}
+body .bs-datepicker-container .bs-datepicker-head {
+  background-color: #A3BD1C;
+}
+body .bs-datepicker-body table td {
+  color:#A82F7C;
+}
